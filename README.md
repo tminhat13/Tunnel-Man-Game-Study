@@ -1,1 +1,4 @@
 # Tunnel-Man-Game-Study
+
+ElCo corporate spies have learned that SanMo is planning to release a new game, called Tunnelman, and would like you to program an exact copy so ElCo can beat SanMo to the market. To help you, ElCo corporate spies have managed to steal a prototype Tunnelman executable file and several source files from the SanMo headquarters, so you can see exactly how your version of the game must work (see posted executable file) and even get a head start on the programming. Of course, such behavior would never be appropriate in real life, but for this project, you’ll be a programming villain.
+In Tunnelman, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field
